@@ -1,11 +1,14 @@
 ---
+title: Weather Assistant
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: weatherAssistant.png
 alt: image-alt
-project-date: April 2014
+# project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Weather Assistant is a practical application that helps users to check out the weather based on the searching location. <strong>"mapbox.com"</strong> and <strong>"weatherstack.com"</strong> are the APIs we used in the application.   
+github: https://github.com/ycleo/weather-assistant
+link: https://leo-weather-assistant.herokuapp.com/
 ---

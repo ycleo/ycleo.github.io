@@ -4,7 +4,7 @@ email: leoyclee@gmail.com
 url: https://ycleo.github.io/
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Software Engineer - Web Developer - Computer Science Student"
+skills: "Software Engineering / Computer Science / Backend Development"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -51,6 +51,8 @@ social:
     url: https://github.com/ycleo
   - title: linkedin
     url: https://www.linkedin.com/in/ycleo/
+  - title: envelope
+    url: "mailto: leoycleo@gmail.com"
 
 # Postal address (add as many lines as necessary)
 address:

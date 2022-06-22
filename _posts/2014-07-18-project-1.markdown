@@ -1,11 +1,14 @@
 ---
+title: Chat Room
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: chatRoom.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+# project-date: April 2014
+tech: hi
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Chat Room is an application that allows users to pick a room to chat and share their locations. The next goal for the app is to expand its features, and turn it into a useful, convenient platform for psychiatrists to have a nice counseling experience with their patients.
+github: https://github.com/ycleo/real-time-chat-app
+link: https://real-time-chat-room-app.herokuapp.com/
 ---
