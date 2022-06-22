@@ -8,7 +8,7 @@ alt: image-alt
 # project-date: April 2014
 tech: hi
 category: Web Development
-description: Chat Room is an application that allows users to pick a room to chat and share their locations. The next goal for the app is to expand its features, and turn it into a useful, convenient platform for psychiatrists to have a nice counseling experience with their patients.
+description: Chat Room is an application that allows users to pick a room to chat and share their locations. The next goal for the app is to expand its features, and turn it into a useful, convenient platform for psychiatrists to have a smooth counseling experience with patients.
 github: https://github.com/ycleo/real-time-chat-app
 link: https://real-time-chat-room-app.herokuapp.com/
 ---
