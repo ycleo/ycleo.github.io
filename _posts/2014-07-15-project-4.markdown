@@ -8,7 +8,7 @@ alt: image-alt
 # project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Weather Assistant is a practical application that helps users to check out the weather based on the searching location. <strong>"mapbox.com"</strong> and <strong>"weatherstack.com"</strong> are the APIs we used in the application.   
+description: Weather Assistant is a practical application that helps users to check out the weather based on the search location. <strong>"mapbox.com"</strong> and <strong>"weatherstack.com"</strong> are the APIs we used in the application.   
 github: https://github.com/ycleo/weather-assistant
 link: https://leo-weather-assistant.herokuapp.com/
 ---

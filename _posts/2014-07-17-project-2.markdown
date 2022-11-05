@@ -8,7 +8,7 @@ alt: image-alt
 # project-date: April 2014
 tech: Start Bootstrap
 category: Web Development
-description: Rocket Mission dashboard shows the histroy data of rocket launches, and also allows user to plan their own rocket missions for fun. Just type in the launch date, missoin name, rocket type, and the destination planet, then you can put your great mission beside SpaceX and NASA!
+description: Rocket Mission dashboard shows the history data of rocket launches, and also allows user to plan their own rocket missions for fun. Just type in the launch date, mission name, rocket type, and the destination planet, then you can put your great mission beside SpaceX and NASA!
 github: https://github.com/ycleo/rocket-mission
 link: http://18.138.254.161:8000/
 ---

@@ -8,7 +8,7 @@ alt: image-alt
 # project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Face Detector is a full stack web application powered by React, PostgreSQL, and Node.js. With the register page, user can easily create an account and log in to use. Paste in a picture's URL, the application will automatically detect every people's faces with the powerful Clarifai API and show up the number of your usage. 
+description: Face Detector is a full-stack web application powered by React, PostgreSQL, and Node.js. With the register page, users can easily create an account and log in to use the detector. Paste in a picture's URL, the application will automatically detect every people's faces with the powerful Clarifai API and show up the number of your usage. 
 github: https://github.com/ycleo/face-detection-app
 link: https://people-face-detect.herokuapp.com/
 ---
